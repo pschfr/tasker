@@ -1,0 +1,18 @@
+<!-- Disables screen lock when in Pokémon GO -->
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+	<Profile sr="prof7" ve="2">
+		<cdate>1469368636328</cdate>
+		<edate>1486101849943</edate>
+		<flags>2</flags>
+		<id>7</id>
+		<limit>true</limit>
+		<mid0>8</mid0>
+		<mid1>14</mid1>
+		<App sr="con0" ve="2">
+			<cls0>com.unity3d.player.UnityPlayerNativeActivity</cls0>
+			<flags>2</flags>
+			<label0>Pokémon GO</label0>
+			<pkg0>com.nianticlabs.pokemongo</pkg0>
+		</App>
+	</Profile>
+</TaskerData>

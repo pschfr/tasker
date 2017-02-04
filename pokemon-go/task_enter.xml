@@ -1,0 +1,26 @@
+<!-- Disable screen lock when in app -->
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+	<Task sr="task8">
+		<cdate>1469368660233</cdate>
+		<edate>1470496260442</edate>
+		<id>8</id>
+		<nme>Disable Screen Lock</nme>
+		<Action sr="act0" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="15"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="60"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

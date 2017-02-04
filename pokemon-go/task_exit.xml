@@ -1,0 +1,27 @@
+<!-- Enable screen lock when leaving app -->
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+	<Task sr="task14">
+		<cdate>1470496275306</cdate>
+		<edate>1470496316904</edate>
+		<id>14</id>
+		<nme>Enable Screen Lock</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>810</code>
+			<Int sr="arg0" val="100"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="30"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

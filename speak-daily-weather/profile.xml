@@ -1,0 +1,18 @@
+<!-- Speaks daily weather Mon-Fri at 7:05am -->
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+	<Profile sr="prof3" ve="2">
+		<cdate>1464958791246</cdate>
+		<edate>1486166248409</edate>
+		<flags>18</flags>
+		<id>3</id>
+		<limit>true</limit>
+		<mid0>2</mid0>
+		<nme>Speak daily weather</nme>
+		<Time sr="con0">
+			<fh>7</fh>
+			<fm>5</fm>
+			<th>7</th>
+			<tm>5</tm>
+		</Time>
+	</Profile>
+</TaskerData>
